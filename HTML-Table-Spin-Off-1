@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "HTML tables"</title>
+    </head>
+    <body>
+
+        <h1>Music Gear Table</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Instrument Family</th>
+                    <th>Model or Brand Name</th>
+                    <th>Pickup or Mouthpiece Brand</th>
+                    <th>Color</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Guitar</td>
+                    <td>Ibanez</td>
+                    <td>DiMarzio</td>
+                    <td>Yellow</td>
+                </tr>
+                <tr>
+                    <td>Guitar</td>
+                    <td>Warmoth/Fender Squire
+                    <td>BKP</td>
+                    <td>Orange</td>
+                </tr>
+                <tr>
+                    <td>Guitar</td>
+                    <td>Warmoth</td>
+                    <td> Don Mare</td>
+                    <td> Brown/Yellow/Black Fade</td>
+                </tr>
+                <tr>
+                    <td>Saxophone</td>
+                    <td>Yanagisawa 880 Alto</td>
+                    <td>Otto Link Tone Edge 5*
+                    <td>Gold</td>
+                </tr>
+                <tr>
+                    <td>Synthesizer</td>
+                    <td>Akai</td>
+                    <td>N/A</td>
+                    <td>Black</td>
+                </tr>
+                <tr>
+                    <td>MIDI Controller Keyboard</td>
+                    <td>Alesis</td>
+                    <td>N/A</td>
+                    <td>Black</td>
+                </tr>
+                
+            </tbody>
+        </table>
+        
+            
+        </body>
+</html>
